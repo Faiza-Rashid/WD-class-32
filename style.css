@@ -1,0 +1,18 @@
+.box1{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #000;
+    margin-bottom: 10px;
+
+}
+.rotate{
+    background-color: red;
+    color: #fff;
+    transform: rotate(180deg);
+}
+.rotate1{
+    transform: skewY(40deg);
+}
+.rotate2{
+    transform: skewX(30deg);
+}
